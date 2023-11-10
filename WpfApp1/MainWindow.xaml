@@ -21,7 +21,7 @@
             </Grid>
             <Border Grid.Row="1" Background="#623ed0" CornerRadius="0 50 0 30">
                 <DockPanel>
-                    <Border Width="80" Height="80" Padding="3" Background="White" CornerRadius="100" DockPanel.Dock="Top" HorizontalAlignment="Left" Margin="20 -30 0 0">
+                    <Border Width="80" Height="80" Padding="3" Background="White" CornerRadius="100" DockPanel.Dock="Top" HorizontalAlignment="Left" Margin="123 -1 0 0">
                         <Ellipse>
                             <Ellipse.Fill>
                                 <ImageBrush ImageSource="/Images/p1.jpg"/>
