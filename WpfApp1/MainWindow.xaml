@@ -6,7 +6,7 @@
         AllowsTransparency="True" Background="Transparent">
     <Border Background="#eff2f7" CornerRadius="30" MouseDown="Border_MouseDown" MouseLeftButtonDown="Border_MouseLeftButtonDown">
         <Grid>
-            <Grid.ColumnDefinitions>
+            <Grid.ColumnDefinitions> 
                 <ColumnDefinition Width="200"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
